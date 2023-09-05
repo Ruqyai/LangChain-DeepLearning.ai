@@ -9,6 +9,7 @@
 - https://www.youtube.com/watch?v=gXYvhHocz84
 - https://youtu.be/VmYHAT5WkWM?si=JohH5NiMw3CaS3VC
 - https://github.com/sudarshan-koirala/youtube-stuffs/tree/main/langchain
+- https://blog.futuresmart.ai/langchain-memory-with-llms-for-advanced-conversational-ai-and-chatbots
 
  ## Products and services
   - https://youtu.be/fY8aOe6H2nw?si=y3jEDI2t8ek4ZYWM
