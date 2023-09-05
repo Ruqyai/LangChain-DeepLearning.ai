@@ -1,4 +1,4 @@
-# LangChain-Models-Prompts-and-Output-Parsers-DeepLearning.ai
+# LangChain-DeepLearning.ai
 
 ## Further resources:
 - https://learn.deeplearning.ai/langchain/lesson/1/introduction
