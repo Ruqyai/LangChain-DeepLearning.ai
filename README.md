@@ -18,3 +18,4 @@
   - https://youtu.be/l1S_6Mw2tbo?si=RiUl9jQo2YLt1me-
   - https://youtu.be/50EJft0ILUI?si=Sbs7MLp2ehIAHYiE
   - https://youtu.be/50EJft0ILUI?si=XfIUIA0JZeC4q0wI
+  - https://medium.com/@sshuklaconvergent/generative-ai-app-builder-a-simplified-way-to-develop-ai-powered-solutions-b517b02e47a6
