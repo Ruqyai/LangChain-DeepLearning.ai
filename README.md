@@ -24,3 +24,5 @@
 ## Open LLM Leaderboard
   - https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
   - https://github.com/eugeneyan/open-llms
+  - https://www.youtube.com/watch?v=8nZZ2oQhx4E
+  - https://github.com/bentoml/OpenLLM
