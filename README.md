@@ -26,3 +26,6 @@
   - https://github.com/eugeneyan/open-llms
   - https://www.youtube.com/watch?v=8nZZ2oQhx4E
   - https://github.com/bentoml/OpenLLM
+
+## Speech Recognition
+ - https://youtube.com/playlist?list=PLpdmBGJ6ELUIjFoQz22b6kfz5_k9Gv-YN&si=2pJpNTKnuhJw_RUK
